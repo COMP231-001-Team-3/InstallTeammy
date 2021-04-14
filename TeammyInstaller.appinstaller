@@ -6,7 +6,7 @@
 		Name="68efdbe8-b73e-400f-a81f-ff38d5ad8949"
 		Version="1.0.14.0"
 		Publisher="CN=aniru"
-		Uri="https://red-ocean-03ac4f710.azurestaticapps.net/TeammyInstaller_1.0.14.0_Test/TeammyInstaller_1.0.14.0_x86_x64.msixbundle" />
+		Uri="https://red-ocean-03ac4f710.azurestaticapps.net/TeammyInstaller_1.0.14.0_Debug_Test/TeammyInstaller_1.0.14.0_x86_x64_Debug.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
