@@ -46,3 +46,5 @@
 
 ![Install Teammy](/images/Screenshot&#32;2021-04-11&#32;114101.png?raw=true)
  
+ Use the username-password as admin-admin for demo purposes.
+ To know more about the code and the contributors, visit ![Dev Teammy](https://github.com/COMP231-001-Team-3/DevTeammy/)
