@@ -34,15 +34,11 @@
 
 9. Verify details at Finish Screen and click ‘Finish’. You should be presented with a message that says import was successful.
 
-10. Install the MySQL Connector for ADO.NET using the ‘Typical’ Mode from https://dev.mysql.com/downloads/connector/net/.
-
-![MySQL ADO.NET Connector](/images/Screenshot&#32;2021-04-11&#32;113849.png?raw=true)
-
-11. Go back to the website in Step 1 and Click ‘Get The App’.
+10. Go back to the website in Step 1 and Click ‘Get The App’.
 
 ![Get the App](/images/Screenshot&#32;2021-04-11&#32;113243.png?raw=true)
 
-12. An installer is presented. Click ‘Install’. The application will launch when completed.
+11. An installer is presented. Click ‘Install’. The application will launch when completed.
 
 ![Install Teammy](/images/Screenshot&#32;2021-04-11&#32;114101.png?raw=true)
  
