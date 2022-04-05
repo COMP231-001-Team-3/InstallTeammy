@@ -1,5 +1,5 @@
 # Installation Instructions
-1. Visit the website [Install Teammy](https://red-ocean-03ac4f710.azurestaticapps.net/). You should be presented with a website that looks like so.
+1. Visit the website [Install Teammy](https://teammy-install.herokuapp.com/). You should be presented with a website that looks like so.
 
 ![Install Teammy](/images/Screenshot&#32;2021-04-11&#32;110933.png?raw=true)
 
@@ -8,7 +8,7 @@
 
 ![Additional Links](/images/InkedScreenshot&#32;2021-04-11&#32;110933_LI.jpg?raw=true)
 
-3. Right Click on the Publisher Certificate item and save it in a location of your choice.
+3. Click on the Publisher Certificate item to download it.
 
 ![Publisher Certificate Download](/images/Screenshot&#32;2021-04-11&#32;111514.png?raw=true)
 
